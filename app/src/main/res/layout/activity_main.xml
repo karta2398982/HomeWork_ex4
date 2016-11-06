@@ -11,7 +11,7 @@
     tools:context="ksu4040e071.homework_ex04.MainActivity">
 
     <Button
-        android:text="Button"
+        android:text="ADD"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button"
